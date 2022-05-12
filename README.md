@@ -1,0 +1,2 @@
+# simple-chat-application
+SIMPLE CHAT APPLICATION USING PHP,HTML AND CSS
